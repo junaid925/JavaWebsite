@@ -19,6 +19,7 @@ $('#cssmenu li.active').addClass('open').children('ul').show();
 			element.siblings('li').find('ul').slideUp(200);
 		}
 	});
+	
 
 });
 })(jQuery);
