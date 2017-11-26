@@ -1,4 +1,4 @@
 # JavaWebsite
 Simple Website built by using Html,CSS,jaqurey and Bootstrap
-#purpose 
+# Purpose
 This Website will teach Intro to Java 
